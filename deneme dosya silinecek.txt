@@ -1,3 +1,5 @@
-sdsdsddsdsd
+﻿sdsdsddsdsd
 
 remote düzenleme
+
+tekrar local düzenleme
