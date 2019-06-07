@@ -3,3 +3,5 @@
 remote düzenleme
 
 tekrar local düzenleme
+
+2ci remote duzenleme
